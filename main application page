@@ -1,0 +1,29 @@
+
+Main Application Module 
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Our Company</title>
+  <link href="site.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="main">
+<h1 style="background-color:MediumSeaGreen;"> Disk Golf Blog</h1>
+ 
+  <h2>Everything you need to Disk Golf:</h2>
+
+   <p>Flying disk sport where a disk is thrown at the target with
+rules that are similar to golf. Attempting to get the try with as few throws as possible.Log in to find more information. </p>
+
+<img src="https://www.californiabeaches.com/wp-content/uploads/2017/03/bigs-Disc-golf-hole-E1-Large.jpg" 
+" style="width:500px;height:500px;">
+
+  <footer id="foot01"></footer>
+
+</div>
+
+</body> </html> 
